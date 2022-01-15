@@ -11,9 +11,8 @@ Topics include program structure and organization, object-oriented programming (
 | A3	| Linked Lists	| Introduce you to linked lists. <br>
 | A4	| Recursion on trees|	Write methods to process trees in an interesting application. <br>
 |A5	|Heaps	| Implement a heap. <br>
-|A6	|GUIs	|Learn about GUIs using various data structures. <br>
-|A7	|Shortest path|	      Implement Dijkstra's shortest path algorithm. <br>
-|A8	|NYC Sewer system	 | Navigate the NYC sewer system to find a ring and pick up coins. Use combination of all data structures and graph algorithms covered. <br>
+|A6	|Shortest path & GUIs	|Learn about GUIs by implementing Dijkstra's shortest path algorithm.. <br>
+|A7	|NYC Sewer system	 | Navigate the NYC sewer system to find a ring and pick up coins. Use combination of all data structures and graph algorithms covered. <br>
 
 
 
